@@ -18,6 +18,11 @@ This is an online voting application developed using Django, a Python web framew
 1. Clone the repository:
 2. Run 'python manage.py runserver' command
 3. Go to localhost:8080/
+## Admin Login
+1. Go to localhost:8080/admin
+2. Login id and password : administrator , admin@123
+You can add questions here:
+![image](https://github.com/smdabdulrahman/VotingWebApp-Django/assets/107129565/1050571b-2d43-4155-9bce-7b05f9694525)
 
 ## Screenshots
  ![Screenshot 2024-04-11 123323](https://github.com/smdabdulrahman/VotingWebApp-Django/assets/146964623/91c87822-1778-4b13-aa08-bf54361358fb)
